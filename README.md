@@ -2,6 +2,18 @@
 
 Based on [KnpLabs' PaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle).
 
+## Installation
+
+Add to composer.json
+
+```json
+{
+    "require": {
+        "dezull/dbal-paginator-service-provider": "dev-master"
+    }
+}
+```
+
 ## Usage
 
 1) When registering `TwigServiceProvider`, add the paginator's template path (create your own or just use KnpPaginatorBundle's).
