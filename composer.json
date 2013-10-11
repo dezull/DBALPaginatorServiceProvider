@@ -3,7 +3,7 @@
     "type": "library",
     "description": "A Doctrine DBAL paginator provider for Silex, based on knp pager components and knp-paginator-bundle.",
     "keywords": ["silex", "paginator", "dbal", "paginator provider", "dbal paginator provider"],
-    "homepage": "http://github.com/dezull/dbal-paginator-service-provider",
+    "homepage": "https://github.com/dezull/DBALPaginatorServiceProvider",
     "license": "MIT",
     "authors": [
         {
